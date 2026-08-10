@@ -16,3 +16,7 @@ Python and AI -based sentiment theme extraction from unstructured review text
 Key finding
 
 The dashboard surfaced a specific, non-obvious insight: business travellers in London during summer were significantly less satisfied than their review scores implied (-3.15 Expectation Gap Score) — the basis for a concrete recommendation on which cities to target in a UK marketing campaign. Vienna ranked as the top-performing city overall (8.57 average review score).
+
+Tools used
+
+Tableau Desktop, Tableau Prep, Python with AI
