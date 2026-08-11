@@ -28,33 +28,33 @@ Tableau Desktop, Tableau Prep, Python with AI
 ## Dashboards
 
 ### Dashboard 1: European Hotel Performance Overview and Geography
-![Dashboard 1 - Overview and Geography](images/dashboard-1-overview.png)
+![Dashboard 1 - Overview and Geography](dashboard-1-overview.png)
 
 ### Dashboard 2: Performance, Nationality and Sentiment
-![Dashboard 2 - Performance, Nationality and Sentiment](images/dashboard-2-nationality-sentiment.png)
+![Dashboard 2 - Performance, Nationality and Sentiment](dashboard-2-nationality-sentiment.png)
 
 ### Dashboard 3: Traveller Insights and City-Month Analysis
-![Dashboard 3 - Traveller Insights](images/dashboard-3-traveller-insights.png)
+![Dashboard 3 - Traveller Insights](dashboard-3-traveller-insights.png)
 
 ## Visualisations
 
 ### Visualisation 1: Geographic Hotel Performance Map
-![Geographic Hotel Performance Map](images/viz-1-geo-map.png)
+![Geographic Hotel Performance Map](viz-1-geo-map.png)
 
 ### Visualisation 2: City Performance Dot Plot
-![City Performance Dot Plot](images/viz-2-city-dotplot.png)
+![City Performance Dot Plot](viz-2-city-dotplot.png)
 
 ### Visualisation 3: Nationality Bias Bar Chart
-![Nationality Bias Bar Chart](images/viz-3-nationality-bias.png)
+![Nationality Bias Bar Chart](viz-3-nationality-bias.png)
 
 ### Visualisation 4: Seasonality Trends Dual-Axis Chart
-![Seasonality Trends Dual-Axis Chart](images/viz-4-seasonality.png)
+![Seasonality Trends Dual-Axis Chart](viz-4-seasonality.png)
 
 ### Visualisation 5: Sentiment Drivers Side-by-Side Bar Chart
-![Sentiment Drivers Side-by-Side Bar Chart](images/viz-5-sentiment-drivers.png)
+![Sentiment Drivers Side-by-Side Bar Chart](viz-5-sentiment-drivers.png)
 
 ### Visualisation 6: Average Satisfaction Score by City and Month Heatmap
-![Average Satisfaction Score by City and Month Heatmap](images/viz-6-heatmap.png)
+![Average Satisfaction Score by City and Month Heatmap](viz-6-heatmap.png)
 
 ### Visualisation 7: Customer Sentiment Impact Across Traveller Segments
-![Customer Sentiment Impact Across Traveller Segments](images/viz-7-traveller-segments.png)
+![Customer Sentiment Impact Across Traveller Segments](viz-7-traveller-segments.png)
